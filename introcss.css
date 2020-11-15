@@ -19,19 +19,19 @@ footer {
     bottom: 0;
     width: 100%;
 }
- #nav{
+ /*#nav{
   position: absolute;
   margin: 20px;
   width: auto;
 }
 
-/* The navbar */
+
 .topnav {
   overflow: hidden;
   background-color: transparent;
+  display: inline;
 }
 
-/* Navbar links */
 .topnav a {
   float: left;
   color: #f2f2f2;
@@ -44,7 +44,13 @@ footer {
 .topnav a:hover {
   background-color: #ddd;
   color: black;
-}
+}*/
+ .navbar{
+     background: transparent;
+     color: white;
+ }
+ 
+
 h1,h2{
    color: #FF6119; 
 }
