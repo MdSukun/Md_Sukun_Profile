@@ -23,6 +23,9 @@ footer {
 .navbar{
     background: transparent;
 }
+#myNavbar{
+    background-color: black;
+}
 .h1, h1 {
     font-size: 36px;
     color: orangered;

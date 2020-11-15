@@ -23,6 +23,9 @@ footer {
 .navbar{
     background: transparent;
 }
+#myNavbar{
+    background-color: black;
+}
 .row{
     display: inline;
 }

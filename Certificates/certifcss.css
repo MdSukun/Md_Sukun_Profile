@@ -24,6 +24,9 @@ footer {
      background: transparent;
      color: white;
  }
+ #myNavbar{
+     background-color: black;
+ }
 .btn{
     background-color: transparent;
 }

@@ -49,7 +49,9 @@ footer {
      background: transparent;
      color: white;
  }
- 
+ #myNavbar{
+     background-color: black;
+ }
 
 h1,h2{
    color: #FF6119; 
