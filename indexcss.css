@@ -1,0 +1,55 @@
+body,html {
+    
+    background-image: url('sukback2.jpg');
+    background-size: 100% 100%;
+    
+    background-position: center;
+    max-width: 100%;  
+    background-repeat: no-repeat;
+}
+.head{
+    color : #ffffff;
+}
+.col-lg-6 {
+    color : #F4F6F6;
+    padding-left: 150px;
+}
+.btn-group-lg>.btn, .btn-lg {
+   
+    font-size: 20px;
+    line-height: 1.3333333;
+    border-radius: 12px;
+}
+.btn-primary.active, .btn-primary:active, .open>.dropdown-toggle.btn-primary {
+    color: #D5DBDB ; 
+    background-color: #3498DB ;
+    border-color: #204d74;
+}
+#btn-one {
+    padding: 10px 150px;
+}
+#btn-two{
+    padding: 10px 165px;
+}
+#btn-three{
+    padding: 10px 153px;
+}
+#btn-four{
+    padding: 10px 150px;
+}
+.glyphicon {
+    color: red;
+}
+#mail,#github,#number,#linkedin{
+    color:red;
+}
+footer {
+    padding: 10px 0;
+    backface-visibility: visible;
+    color:#FFE6E6;
+    bottom: 0;
+    width: 100%;
+}
+#linkedin {
+    padding-left: 30px;
+}

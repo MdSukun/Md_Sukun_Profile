@@ -1,0 +1,67 @@
+body, html {
+    background-image: url(sukback1.jpg);
+    background-size: 100% 100%;
+    
+    width: 100%;
+    background-position: center;
+    max-width: 100%;
+    background-repeat: no-repeat;
+}
+.glyphicon {
+    color: red;
+}
+#mail,#github,#number,#linkedin{
+    color:red;
+}
+footer {
+    padding: 10px 0;
+    backface-visibility: visible;
+    color:#FFE6E6;
+    bottom: 0;
+    width: 100%;
+}
+ #nav{
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: transparent;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.row{
+    display: inline;
+}
+#web{
+    padding-top: 20px;
+}
+#pyth{
+    padding-left: 30px;
+}
+h3{
+    color: #FF6119;
+}
+h4,p{
+    color: #ffffff;
+}
+.img-responsive{
+    width: 400px;
+    height: 270px;
+}
